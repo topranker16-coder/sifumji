@@ -1,4 +1,3 @@
 streamlit
 markdown
-weasyprint
 beautifulsoup4
